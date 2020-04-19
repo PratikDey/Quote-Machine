@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+
+body {
+  background-color: rgba(147, 149, 243);
+}
+
+.wrapper {
+  height: 100vh;
+  background-color: black;
+}
+
+.box {
+  background-color: white;
+  position: relative;
+}
+
+.fa-quote-left {
+  position: absolute;
+  opacity: 0.5;
+  top: 10px;
+  left: 10px;
+}
